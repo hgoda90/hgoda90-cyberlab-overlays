@@ -13,5 +13,5 @@ The images are custom made and tested with their respected core
 - Properly install Mega Bezel and CyberLab respectfully
 - Place Hgoda90-CyberLab-Overlays folder inside Mega_Bezel_Packs
 
-![Preview 1](preview/1.png)
-![Preview 2](preview/2.png)
+![Preview 1](preview/001.png)
+![Preview 2](preview/002.png)
