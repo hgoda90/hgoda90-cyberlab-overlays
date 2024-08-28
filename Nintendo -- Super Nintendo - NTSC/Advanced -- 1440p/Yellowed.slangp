@@ -1,0 +1,14 @@
+#reference "../../__global/params/1440p/advance/slot_mask.params"
+#reference "../../__global/params/common.params"
+#reference "../../__global/params/curve.params"
+
+[ASPECT RATIO]
+	HSM_ASPECT_RATIO_MODE = "2.000000"
+
+[BEZEL COLOR]
+	HSM_BZL_COLOR_HUE = "43.000000"
+	HSM_BZL_COLOR_SATURATION = "68.000000"
+	HSM_BZL_COLOR_VALUE = "69.000000"
+
+[---MEGA BEZEL IMAGES---]
+	BackgroundImage = "../../__global/images/super-nintendo_ntsc/002.png"
