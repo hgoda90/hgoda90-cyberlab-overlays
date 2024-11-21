@@ -1,0 +1,19 @@
+#reference "../../../__global/params/4K/standard/slot_mask.params"
+#reference "../../../__global/params/common.params"
+#reference "../../../__global/params/curve.params"
+#reference "../../../__global/params/night.params"
+
+[ASPECT RATIO]
+	HSM_ASPECT_RATIO_MODE = "0.000000"
+
+[BEZEL GENERAL]
+	HSM_BZL_WIDTH = "100.000000"
+	HSM_BZL_HEIGHT = "75.000000"
+
+[BEZEL COLOR]
+	HSM_BZL_COLOR_HUE = "24.000000"
+	HSM_BZL_COLOR_SATURATION = "86.000000"
+	HSM_BZL_COLOR_VALUE = "82.000000"
+
+[---MEGA BEZEL IMAGES---]
+	BackgroundImage = "../../../__global/images/fb-neo/002.png"

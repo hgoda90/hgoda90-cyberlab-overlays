@@ -1,0 +1,14 @@
+#reference "../../../__global/params/1440p/standard/slot_mask.params"
+#reference "../../../__global/params/common.params"
+#reference "../../../__global/params/curve.params"
+
+[ASPECT RATIO]
+	HSM_ASPECT_RATIO_MODE = "2.000000"
+
+[BEZEL COLOR]
+	HSM_BZL_COLOR_HUE = "300.000000"
+	HSM_BZL_COLOR_SATURATION = "3.000000"
+	HSM_BZL_COLOR_VALUE = "14.000000"
+
+[---MEGA BEZEL IMAGES---]
+	BackgroundImage = "../../../__global/images/atari-2600/001.png"
